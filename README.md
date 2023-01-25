@@ -1,17 +1,17 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
+  ![GitHub repo size](#)
+  ![GitHub stars](https://img.shields.io/github/stars/ugoMusk/Etarnet?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ugoMusk/Etarnet?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/intent/follow?screen_name=username)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](Youtube_url)
 
   <br />
   <br />
 
-  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
+  <h2 align="center">Eternet - Cryptocurrency Website</h2>
 
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Etarnet is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Cryptex** locally, run this command on your git bash:
+To run **Etarnet** locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -47,8 +47,8 @@ git clone https://github.com/codewithsadee/cryptex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/username).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains GNU public license.
