@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Eternet - Cryptocurrency Website</h2>
+  <h2 align="center">Etarnet - Cryptocurrency Website</h2>
 
   Etarnet is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ugoMusk.github.io/Etarnet/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,13 +36,13 @@ To run **Etarnet** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/cryptex.git
+sudo git clone https://github.com/ugoMusk/Etarnet.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/cryptex.git
+git clone https://github.com/ugoMusk/Etarnet.git
 ```
 
 ### Contact
@@ -51,4 +51,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains GNU public license.
+This project is **free to use** and does contains GNU public license.
