@@ -21,9 +21,7 @@
 
 <br />
 
-### Demo Screeshots
 
-![Cryptex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -32,6 +30,7 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
+#### You have the option fork the project if you want to contribute more features
 
 To run **Etarnet** locally, run this command on your git bash:
 
